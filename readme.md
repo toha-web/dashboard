@@ -1,12 +1,8 @@
-<table width="100%">
-<tr>
-<td align="right">
+<div align="right">
 
-[![Tutorial](https://img.shields.io/badge/View-Tutorial-blue?style=for-the-badge)](./tutorial/index.md)
+## [`Tutorial`](./tutorial/index.md)
 
-</td>
-</tr>
-</table>
+</div>
 
 # Тестове завдання: User Dashboard with Auth
 
