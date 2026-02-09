@@ -1,6 +1,6 @@
 <div align="right">
 
-## [`Tutorial`](./tutorial/index.md)
+[![Tutorial](https://img.shields.io/badge/View-Tutorial-blue?style=for-the-badge)](./tutorial/readme.md)
 
 </div>
 
