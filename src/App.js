@@ -51,7 +51,7 @@ export default function App() {
 				<Outlet />
 			</Content>
 			<Footer style={{ textAlign: "center" }}>
-				Test Dashboard ©{new Date().getFullYear()} Created by <a href="biletskyi.dev" target="_blank">
+				Test Dashboard ©{new Date().getFullYear()} Created by <a href="https://biletskyi.dev" target="_blank">
 					Anton
 					Biletskyi
 				</a>
