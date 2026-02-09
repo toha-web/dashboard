@@ -1,3 +1,13 @@
+<table width="100%">
+<tr>
+<td align="right">
+
+[![Tutorial](https://img.shields.io/badge/View-Tutorial-blue?style=for-the-badge)](./tutorial/index.md)
+
+</td>
+</tr>
+</table>
+
 # Тестове завдання: User Dashboard with Auth
 
 Клієнтський SPA-застосунок на **React**, що реалізує систему авторизації та відображення даних користувачів.  
