@@ -1,4 +1,4 @@
-### [⬅ Overview](index.md)
+### [👈 Overview](index.md)
 
 # Chapter 1: App Shell & Global Navigation
 
@@ -165,17 +165,4 @@ Next, we will explore the rules that govern which components load inside that `O
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
-[⬅ Overview of dashboard](index.md)
-
-</td>
-<td align="right">
-
-[Next Chapter: Router Structure & Access Control ➡](02_router_structure.md)
-
-</td>
-</tr>
-</table>
+[👈 Overview of dashboard](index.md)&nbsp; | &nbsp;[Next Chapter: Router Structure & Access Control 👉](02_router_structure.md)

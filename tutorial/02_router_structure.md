@@ -1,4 +1,4 @@
-### [⬅ Overview](index.md)
+### [👈 Overview](index.md)
 
 # Chapter 2: Router Structure & Access Control
 
@@ -174,17 +174,4 @@ But how does the user data get into the Redux store in the first place? In the n
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
-[⬅ Previous Chapter: App Shell & Global Navigation](01_app_shell.md)
-
-</td>
-<td align="right">
-
-[Next Chapter: Authentication State Management & Login Hook ➡](03_authentication_state.md)
-
-</td>
-</tr>
-</table>
+[👈 Previous Chapter: App Shell & Global Navigation](01_app_shell.md)&nbsp; | &nbsp;[Next Chapter: Authentication State Management & Login Hook 👉](03_authentication_state.md)

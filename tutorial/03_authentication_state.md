@@ -1,4 +1,4 @@
-### [⬅ Overview](index.md)
+### [👈 Overview](index.md)
 
 # Chapter 3: Authentication State Management & Login Hook
 
@@ -183,17 +183,4 @@ Now that we understand how user authentication works, we can dive into the secur
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
-[⬅ Previous Chapter: Router Structure & Access Control](02_router_structure.md)
-
-</td>
-<td align="right">
-
-[Next Chapter: Dashboard Modular Layout ➡](04_dashboard.md)
-
-</td>
-</tr>
-</table>
+[👈 Previous Chapter: Router Structure & Access Control](02_router_structure.md)&nbsp; | &nbsp;[Next Chapter: Dashboard Modular Layout 👉](04_dashboard.md)

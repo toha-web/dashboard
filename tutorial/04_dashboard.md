@@ -1,4 +1,4 @@
-### [⬅ Overview](index.md)
+### [👈 Overview](index.md)
 
 # Chapter 4: Dashboard Modular Layout
 
@@ -182,17 +182,4 @@ Within this consistent layout, our next task is to fetch and display dynamic, ex
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
-[⬅ Previous Chapter: Authentication State Management & Login Hook](03_authentication_state.md)
-
-</td>
-<td align="right">
-
-[Next Chapter: External Data Fetching Pattern (Users List) ➡](05_external_data.md)
-
-</td>
-</tr>
-</table>
+[👈 Previous Chapter: Authentication State Management & Login Hook](03_authentication_state.md)&nbsp; | &nbsp;[Next Chapter: External Data Fetching Pattern (Users List) 👉](05_external_data.md)

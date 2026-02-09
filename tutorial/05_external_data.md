@@ -1,4 +1,4 @@
-### [⬅ Overview](index.md)
+### [👈 Overview](index.md)
 
 # Chapter 5: External Data Fetching Pattern (Users List)
 
@@ -184,12 +184,4 @@ This clear abstraction, similar to how we handled authentication using the [Auth
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
-[⬅ Previous Chapter: Dashboard Modular Layout](04_dashboard.md)
-
-</td>
-</tr>
-</table>
+[👈 Previous Chapter: Dashboard Modular Layout](04_dashboard.md)

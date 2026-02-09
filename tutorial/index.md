@@ -1,11 +1,11 @@
 <div align="left">
 
-### [⬅ Readme](../readme.md)
+### [👈 Readme](../readme.md)
 
 </div>
 <div align="right">
 
-### [View on code2tutorial.com](https://code2tutorial.com/tutorial/334a50b4-4a5e-437a-9bad-caaa72ea7a8f/02_router_structure___access_control_.md)
+### [View on code2tutorial.com](https://code2tutorial.com/tutorial/334a50b4-4a5e-437a-9bad-caaa72ea7a8f/index.md)
 
 </div>
 
