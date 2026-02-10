@@ -183,4 +183,4 @@ Now that we understand how user authentication works, we can dive into the secur
 
 ---
 
-[👈 Previous Chapter: Router Structure & Access Control](02_router_structure.md)&nbsp; | &nbsp;[Next Chapter: Dashboard Modular Layout 👉](04_dashboard.md)
+#### [👈 Previous Chapter: Router Structure & Access Control](02_router_structure.md)&nbsp; | &nbsp;[Next Chapter: Dashboard Modular Layout 👉](04_dashboard.md)

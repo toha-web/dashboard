@@ -174,4 +174,4 @@ But how does the user data get into the Redux store in the first place? In the n
 
 ---
 
-[👈 Previous Chapter: App Shell & Global Navigation](01_app_shell.md)&nbsp; | &nbsp;[Next Chapter: Authentication State Management & Login Hook 👉](03_authentication_state.md)
+#### [👈 Previous Chapter: App Shell & Global Navigation](01_app_shell.md)&nbsp; | &nbsp;[Next Chapter: Authentication State Management & Login Hook 👉](03_authentication_state.md)

@@ -182,4 +182,4 @@ Within this consistent layout, our next task is to fetch and display dynamic, ex
 
 ---
 
-[👈 Previous Chapter: Authentication State Management & Login Hook](03_authentication_state.md)&nbsp; | &nbsp;[Next Chapter: External Data Fetching Pattern (Users List) 👉](05_external_data.md)
+#### [👈 Previous Chapter: Authentication State Management & Login Hook](03_authentication_state.md)&nbsp; | &nbsp;[Next Chapter: External Data Fetching Pattern (Users List) 👉](05_external_data.md)

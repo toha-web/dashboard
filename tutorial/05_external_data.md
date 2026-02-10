@@ -184,4 +184,4 @@ This clear abstraction, similar to how we handled authentication using the [Auth
 
 ---
 
-[👈 Previous Chapter: Dashboard Modular Layout](04_dashboard.md)
+#### [👈 Previous Chapter: Dashboard Modular Layout](04_dashboard.md)

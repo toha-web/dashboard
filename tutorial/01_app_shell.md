@@ -165,4 +165,4 @@ Next, we will explore the rules that govern which components load inside that `O
 
 ---
 
-[👈 Overview of dashboard](index.md)&nbsp; | &nbsp;[Next Chapter: Router Structure & Access Control 👉](02_router_structure.md)
+#### [👈 Overview of dashboard](index.md)&nbsp; | &nbsp;[Next Chapter: Router Structure & Access Control 👉](02_router_structure.md)
